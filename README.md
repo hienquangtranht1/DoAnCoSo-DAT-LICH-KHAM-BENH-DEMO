@@ -2,8 +2,6 @@
   <h1>🏥 Hệ Thống Đặt Lịch Khám Bệnh Trực Tuyến</h1>
   <p><i>(Hospitals Booking System)</i></p>
   
-  <img src="public/images/hero1.jpg" alt="Project Banner" width="100%">
-
   <br />
 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
